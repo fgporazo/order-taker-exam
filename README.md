@@ -28,7 +28,8 @@ CRUD - ORDER TAKER SYSTEM
 
 OUTPUT:
 
-<img width="1440" alt="image" src="https://github.com/fgporazo/order-taker-exam/assets/66890979/31cf41e3-98cd-47d7-90be-cd26f2debe08">
+<img width="1384" alt="image" src="https://github.com/fgporazo/order-taker-exam/assets/66890979/559ff46c-19f1-4be5-b745-1b787d6a034b">
+
 
 
 
