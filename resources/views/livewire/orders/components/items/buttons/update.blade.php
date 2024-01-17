@@ -1,0 +1,1 @@
+<button wire:click="updateItemDetails({{$order['id']}})" type="button" class="btn btn-outline-primary">Edit</button>
